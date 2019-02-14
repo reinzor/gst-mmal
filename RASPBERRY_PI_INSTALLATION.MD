@@ -1,5 +1,8 @@
 # Raspbian Stretch Lite
 
+- Tested on Raspberry PI 3B
+- Tested on Raspberry PI Zero
+
 ## Install and compile gst-mmal
 
 ```bash
